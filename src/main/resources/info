@@ -1,0 +1,9 @@
+todo:
+
+
+2. DTO-> RequestProductDto, ResponseProductDto.
+         RequestCategoriesDto, ResponseCategoriesDto.
+         with Mapperclass
+         1.1)put validation on DTO ( DTO validation)
+
+
